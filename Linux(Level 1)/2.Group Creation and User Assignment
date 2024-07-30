@@ -1,0 +1,28 @@
+Problem Statement:  There are specific access levels for users defined by the xFusionCorp Industries system admin team. Rather than providing access levels to every individual user, the team has decided to create groups with required access levels and add users to those groups as needed. See the following requirements:
+Requirements:
+a. Create a group named nautilus_admin_users in all App servers in Stratos Datacenter.
+b. Add the user Mohammed to nautilus_admin_users in all App servers.
+
+Required Info to perform task:
+-- username, IP and passwords for login into thee app servers: 
+for App Server 1: username: tony, IP:172.16.238.10, password: Ir0nM@n
+for App Server 2: username: steve, IP:172.16.238.11, password: Am3ric@
+for App Server 3: username: banner, IP:172.16.238.12, password: BigGr33n
+
+
+Solution:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
